@@ -1,1 +1,1 @@
-include ':sample', ':philology'
+include ':philology'
